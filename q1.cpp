@@ -9,6 +9,9 @@ long long denom(long long arr[][2],long long n,long long i){
     }
     return ans;
 }
+int sum(int a,int b){
+    return a+b;
+}
 int main(){
     long long n,k;
     cin >> n >> k;
