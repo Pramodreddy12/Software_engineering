@@ -12,6 +12,9 @@ long long denom(long long arr[][2],long long n,long long i){
 int sum(int a,int b){
     return a+b;
 }
+void havefun(){
+    cout<<"Testtt";
+}
 int main(){
     long long n,k;
     cin >> n >> k;
